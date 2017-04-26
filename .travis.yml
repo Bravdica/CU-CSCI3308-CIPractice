@@ -5,5 +5,5 @@ language: c
 script: make all && make test
 
 compiler:
-	- clang
-	- gcc
+  - clang
+  - gcc
